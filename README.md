@@ -12,8 +12,6 @@
 [<img align="left" alt="justinn   | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="justinn   | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="justinn    | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="justinn    | Whatsapp" width="22px" src="https://static.thenounproject.com/png/988424-200.png" />][whatsapp]
-
 
 <br />
 
