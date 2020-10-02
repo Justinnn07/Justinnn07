@@ -12,7 +12,7 @@
 [<img align="left" alt="justinn   | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="justinn   | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="justinn    | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="justinn    | Whatsapp" width="22px" src="https://static.thenounproject.com/png/988424-200.png" />][whatsapp]
+[<img align="left" alt="justinn    | Whatsapp" width="22px" src="https://static.thenounproject.com/png/988424-200.png" />]
 
 
 
@@ -22,4 +22,4 @@
 [twitter]: https://twitter.com/justinnn_06
 [instagram]: https://instagram.com/justinnn_.07
 [linkedin]: https://www.linkedin.com/in/justin-varghese-8704a91b3/
-[Whatsapp]:  https://api.whatsapp.com/send?phone=919319275200&text=chat with your boi justin!
+
