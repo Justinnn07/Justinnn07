@@ -22,4 +22,4 @@
 [twitter]: https://twitter.com/justinnn_06
 [instagram]: https://instagram.com/justinnn_.07
 [linkedin]: https://www.linkedin.com/in/justin-varghese-8704a91b3/
-[whatsapp]:  https://api.whatsapp.com/send?phone=919319275200&text=chat with your boi justin!
+[Whatsapp]:  https://api.whatsapp.com/send?phone=919319275200&text=chat with your boi justin!
