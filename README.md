@@ -15,7 +15,7 @@
 
 <br />
 
-[website]: my-portfolio-781.netlify.app
+[website]: https://my-portfolio-781.netlify.app
 [twitter]: https://twitter.com/justinnn_06
 [instagram]: https://instagram.com/justinnn_.07
 [linkedin]: https://www.linkedin.com/in/justin-varghese-8704a91b3/
