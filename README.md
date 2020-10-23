@@ -1,6 +1,7 @@
 ### Hi there, I'm Justin -👋
 
 ## I'm a  Developer and Student!
+Profile Hits: [![HitCount](http://hits.dwyl.com/Justinnn07/Justinnn07.svg)](http://hits.dwyl.com/Justinnn07/Justinnn07)
 - 🔭 I’m currently working on a [VS Code Course]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
