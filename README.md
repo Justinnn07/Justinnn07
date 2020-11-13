@@ -19,6 +19,8 @@
 
 <br />
 
+![Justin's github stats](https://github-readme-stats.vercel.app/api?username=Justinnn07&show_icons=true&theme=radical)
+
 [website]: https://justinnn07.netlify.app
 [twitter]: https://twitter.com/justinnn_06
 [instagram]: https://instagram.com/justinnn_.07
