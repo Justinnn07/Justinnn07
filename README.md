@@ -10,6 +10,8 @@
 - 🥅 2020 Goals: Learn as much as js and python...
 - ⚡ Fun fact: I love to Play football!! 🤣
 
+<img align="center" height="150vh" width="350px" padding="20px" src="https://github-readme-stats.vercel.app/api?username=Justinnn07&show_icons=true&theme=radical"/>
+
 ### Connect with me:
 [<img align="left" alt="justinn  " width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="justinn   | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -18,8 +20,6 @@
 [<img align="left" alt="justinn    | StackOverflow" width="22px" src="https://icons-for-free.com/iconfiles/png/512/stackoverflow-1321215626484539706.png" />][StackOverFlow]
 
 <br />
-
-![Justin's github stats](https://github-readme-stats.vercel.app/api?username=Justinnn07&show_icons=true&theme=radical)
 
 [website]: https://justinnn07.netlify.app
 [twitter]: https://twitter.com/justinnn_06
