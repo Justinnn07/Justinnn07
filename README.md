@@ -28,9 +28,7 @@
 <br />
 
 ### Spotify Playing 🎧
-
-[<img src="https://justinnn07.vercel.app
-.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/31rxdmq4n3vx4kiolo5icytiki5m)
+[![Spotify](https://justinnn07.vercel.app/api/spotify)](https://open.spotify.com/user/31rxdmq4n3vx4kiolo5icytiki5m)
 
 ### Connect with me:
 [<img align="left" alt="justinn  " width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
