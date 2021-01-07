@@ -4,10 +4,10 @@
 
  <img src="https://komarev.com/ghpvc/?username=Justinnn07" alt="" />
  
-- 🔭 I’m currently working on MERN STACK INSTAGRAM CLONE
+- 🔭 I’m currently working on C, C++
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Learn as much as js and python...
+- 🥅 2021 Goals: Learn.C, CPP 
 - ⚡ Fun fact: I love to Play football!! 🤣
 
 <img align="center" height="150vh" width="350px" padding="20px" src="https://github-readme-stats.vercel.app/api?username=Justinnn07&show_icons=true&theme=radical"/>
