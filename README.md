@@ -40,6 +40,6 @@
 
 [website]: https://justinn.me/
 [twitter]: https://twitter.com/justinnn_06
-[instagram]: https://instagram.com/justinnn_.07
+[instagram]: https://instagram.com/justinnn._07
 [linkedin]: https://www.linkedin.com/in/justin-varghese-8704a91b3/
 [StackOverFlow]: https://stackoverflow.com/users/14352405/justin-varghese
