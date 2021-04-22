@@ -1,4 +1,4 @@
-### CIAO, I'm Justin -👋
+### Ciao, I'm Justin -👋
 
 ## I'm a  Developer and Student!
 
