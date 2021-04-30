@@ -29,7 +29,6 @@
 <img align="left" alt="Firebase" width="26px" src="https://miro.medium.com/max/300/1*R4c8lHBHuH5qyqOtZb3h-w.png" />
 <img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
 <img align="left" alt="Cpp" width="26px" src="https://content.nexza.com/stack-items/c-plus-plus.png" />
-
 <img align="left" alt="Python" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
 <br />
 
@@ -45,5 +44,5 @@
 [website]: https://justinn.me/
 [twitter]: https://twitter.com/justinnn_06
 [instagram]: https://instagram.com/justinnn._07
-[linkedin]: https://www.linkedin.com/in/justin-varghese-8704a91b3
+[linkedin]: https://www.linkedin.com/in/justinnn07/
 [StackOverFlow]: https://stackoverflow.com/users/14352405/justin-varghese
