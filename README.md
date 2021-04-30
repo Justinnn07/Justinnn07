@@ -38,7 +38,7 @@
 [<img align="left" alt="justinn   | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="justinn    | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="justinn    | StackOverflow" width="22px" src="https://icons-for-free.com/iconfiles/png/512/stackoverflow-1321215626484539706.png" />][StackOverFlow]
-[<img align="left" alt="justinn    | hackerrank" width="22px" src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" />][hackerrank]
+[<img align="left" alt="justinn    | hackerrank" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/160_Hackerrank_logo_logos-512.png" />][hackerrank]
 
 
 <br />
