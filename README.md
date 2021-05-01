@@ -12,7 +12,6 @@
 - ⚡ Fun fact: I love to Play football! 🤣
 
 
-
 <img align="center" height="150vh" width="350px" padding="20px" src="https://github-readme-stats.vercel.app/api?username=Justinnn07&show_icons=true&theme=radical"/>
 
 ### Languages and Tools:
