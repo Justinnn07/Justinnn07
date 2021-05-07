@@ -3,7 +3,7 @@
 ## I'm a  Developer and Student!
 
 
- <img src="https://komarev.com/ghpvc/?username=Justinnn07" alt="" />
+ <img src="https://komarev.com/ghpvc/?username=Justinnn07" alt="Justin" />
  
 - 🔭 I’m currently working on C, C++
 - 🌱 I’m currently learning everything 🤣
