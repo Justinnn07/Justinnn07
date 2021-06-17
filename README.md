@@ -43,7 +43,7 @@
 <br />
 
 [website]: https://justinn.me/
-[twitter]: https://twitter.com/justinnn_06
+[twitter]: https://twitter.com/Justinn771
 [instagram]: https://instagram.com/justinnn._07
 [linkedin]: https://www.linkedin.com/in/justinnn07/
 [StackOverFlow]: https://stackoverflow.com/users/14352405/justin-varghese
