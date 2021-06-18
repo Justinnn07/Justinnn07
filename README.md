@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Learn.C, CPP 
-- ⚡ Fun fact: I love to Play football! 🤣
+- ⚡ Fun fact: My GirlFriend is also a developer! 😂
 
 
 <img align="center" height="150vh" width="350px" padding="20px" src="https://github-readme-stats.vercel.app/api?username=Justinnn07&show_icons=true&theme=radical"/>
